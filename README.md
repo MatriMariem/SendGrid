@@ -4,7 +4,8 @@
 ### Sending a scheduled email
 ### Pausing/Canceling scheduled emails using a batch
 ### Deleting the pausing status of paused scheduled emails
-
+### Specify the reply_to email for the recipient
+### Open track the email
 # References
 
 #### SendGrid Website
