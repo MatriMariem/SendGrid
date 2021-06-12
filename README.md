@@ -5,7 +5,7 @@
 ### Pausing/Canceling scheduled emails using a batch
 ### Deleting the pausing status of paused scheduled emails
 
-## References
+# References
 
 #### SendGrid Website
 https://sendgrid.com/
