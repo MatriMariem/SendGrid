@@ -6,6 +6,7 @@
 ### Deleting the pausing status of paused scheduled emails
 ### Specify the reply_to email for the recipient
 ### Open track the email
+### Using Dynamic Templates
 # References
 
 #### SendGrid Website
